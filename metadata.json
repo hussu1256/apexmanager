@@ -1,0 +1,6 @@
+{
+  "name": "ApexManager",
+  "description": "An elegant business management portal featuring live revenue/expense tracking, beautiful interactive analytics, professional quote & invoice PDF generation, and an intelligent Gemini AI financial assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
